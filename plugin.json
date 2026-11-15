@@ -1,0 +1,23 @@
+{
+  "slug": "Buchla",
+  "name": "Buchla 259t",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Haer",
+  "author": "Haer",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "https://github.com/hardyfinn/Buchla",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Buchla259t",
+      "name": "Buchla 259t",
+      "description": "Complex oscillator laid out after the Buchla / Tiptop 259t: modulation oscillator, principal oscillator, amplitude / pitch / timbre routes, mod index, phase lock, and a timbre / symmetry / order wave shaper",
+      "tags": ["VCO", "Oscillator", "Waveshaper", "Polyphonic"]
+    }
+  ]
+}
