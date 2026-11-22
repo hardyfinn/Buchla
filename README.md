@@ -16,3 +16,7 @@ A complex oscillator for VCV Rack 2, laid out after the Buchla / Tiptop Audio
 GitHub Actions builds the Mac (Apple Silicon) plugin on every push; it appears on the "preview" (branches) or "latest" (main) release.
 Locally: `make RACK_DIR=path/to/Rack-SDK dist`. Engine checks without the SDK: `make test`. Demo: `test/render demo.wav`.
 Panel: `python3 res/make_panel.py` (needs fonttools), preview: `python3 tools/preview.py panel-preview.png`.
+
+## Licence
+
+MIT (see `LICENSE.txt`): you're free to use, change, port (VST/CLAP, other platforms, hardware) and share this code, as long as the copyright notice and licence text come along. Fonts on the panel (Inter, Climate Crisis) are under the SIL Open Font Licence.
